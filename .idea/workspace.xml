@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="916b90ad-09a3-42bf-936a-7a068452f0fa" name="Changes" comment="Creats Practice File">
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="916b90ad-09a3-42bf-936a-7a068452f0fa" name="Changes" comment="Creats Practice File" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -75,7 +73,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1693553507696</updated>
-      <workItem from="1693553509252" duration="2450000" />
+      <workItem from="1693553509252" duration="2779000" />
     </task>
     <task id="LOCAL-00001" summary="Creats Practice File">
       <created>1693554992265</created>
